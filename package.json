@@ -1,0 +1,18 @@
+{
+  "name": "6-is-odd",
+  "version": "1.0.0",
+  "description": "Package to tell you if a function is 5-is-odd",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "is",
+    "odd"
+  ],
+  "author": "Henry LeCompte <henry@volunteerio.us> (https://henrylec.dev)",
+  "license": "ISC",
+  "dependencies": {
+    "5-is-odd": "^1.0.1"
+  }
+}
